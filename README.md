@@ -20,9 +20,10 @@
     use method of post
     
     results：
-    - ![Image text](https://github.com/qqqays/server4parseEditorJs/blob/master/image-example/res.png?raw=true)
-
-    - ![Image text](https://github.com/qqqays/server4parseEditorJs/blob/master/image-example/res2.png?raw=true)
+  - #### Test by postman
+   ![Image text](https://github.com/qqqays/server4parseEditorJs/blob/master/image-example/res.png?raw=true)
+  - #### Console info
+   ![Image text](https://github.com/qqqays/server4parseEditorJs/blob/master/image-example/res2.png?raw=true)
 
 
 html segment:
