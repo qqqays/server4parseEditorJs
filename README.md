@@ -1,3 +1,7 @@
+## introduction
+
+#### This project developed for providing service which can parse html tags to blocks of editorJs.
+
 ## usage
 
 ### 1. install:
