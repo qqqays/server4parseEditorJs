@@ -2,6 +2,7 @@
 
 ### 1. install:
 > npm install
+
 ![Image text](https://github.com/qqqays/server4parseEditorJs/blob/master/image-example/install.png?raw=true)
 
 ### 2. run:
