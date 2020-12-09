@@ -1,6 +1,6 @@
 ## introduction
 
-#### This project developed for providing a api service which can parse html tags to blocks of editorJs.
+#### This project developed for providing an api service which can parse html tags to blocks of editorJs.
 
 ## usage
 
