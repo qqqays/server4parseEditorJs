@@ -17,7 +17,7 @@
     like this:
 >   http://127.0.0.1:8999/html2blocks
 
-    use method of post
+    use http method of post
     
     results：
   - #### Test by postman
