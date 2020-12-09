@@ -1,0 +1,16 @@
+{
+  "name": "parse_editorjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server-example.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server-example.js"
+  },
+  "author": "qays",
+  "license": "ISC"
+}
